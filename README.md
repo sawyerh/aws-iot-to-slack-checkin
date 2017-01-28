@@ -1,3 +1,9 @@
+# Usage
+
+- **Single click**: Check-in (Default message: "Checking in")
+- **Double click**: Check-out (Default message: "Checking out")
+- **Long click** (1.5+ second press): Lunch check-out (Message: "Grabbing lunch")
+
 # Installation
 
 ## Setup your [AWS IoT Button](https://aws.amazon.com/iotbutton/)
