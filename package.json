@@ -1,0 +1,10 @@
+{
+  "name": "aws-iot-to-slack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sawyer Hollenshead (http://sawyerh.com/)",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "eslint": "^3.14.1"
+  }
+}
