@@ -5,13 +5,20 @@ At [Nava](http://navahq.com/) we have offices in DC, SF, and NYC. Lots of Navana
 For fun, I've programed an AWS IoT Button to help automate my check-in and check-out notifications for the NYC office, letting people know when I'm in the office, heading to lunch, or heading home. Along with the check-in and check-out messages I'm experimenting with including the current weather to help build "commute-empathy".
 
 <img src="https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/button-demo.gif" height="128">
-![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/screenshot.png)
 
 # Usage
 
-- **Single click**: Check-in (Default message: `Checking in`)
-- **Double click**: Check-out (Default message: `Checking out`)
-- **Long click** (1.5+ second press): Lunch check-out (Message: `Grabbing lunch`)
+**Single click**: Check-in (Default message: `Checking in`)
+
+![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/check-in.png)
+
+**Double click**: Check-out (Default message: `Checking out`)
+
+![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/check-out.png)
+
+**Long click** (1.5+ second press): Lunch check-out (Message: `Grabbing lunch`)
+
+![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/lunch.png)
 
 # Installation
 
