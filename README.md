@@ -1,4 +1,4 @@
-![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/screenshot.png)
+![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/screenshot.png)
 
 # Usage
 
@@ -7,6 +7,8 @@
 - **Long click** (1.5+ second press): Lunch check-out (Message: `Grabbing lunch`)
 
 # Installation
+
+![diagram](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/diagram.png)
 
 ## Setup your [AWS IoT Button](https://aws.amazon.com/iotbutton/)
 
