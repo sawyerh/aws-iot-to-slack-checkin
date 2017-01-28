@@ -1,3 +1,5 @@
+![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/screenshot.png)
+
 # Usage
 
 - **Single click**: Check-in (Default message: `Checking in`)
