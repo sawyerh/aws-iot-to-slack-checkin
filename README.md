@@ -1,5 +1,5 @@
+<img src="https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/button-demo.gif" height="128">
 ![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/screenshot.png)
-![button](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/button-demo.gif)
 
 # Usage
 
