@@ -10,7 +10,7 @@ For fun, I've programed an [AWS IoT Button](https://aws.amazon.com/iotbutton/) t
 
 **Single click**: Check-in (Default message: `Checking in`)
 
-![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/check-in-1.png)
+![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/check-in-2.png)
 
 **Double click**: Check-out (Default message: `Checking out`)
 
