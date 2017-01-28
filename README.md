@@ -12,7 +12,6 @@
 _This step is optional and only necessary if you want to include weather info in your checkin/checkout messages._
 
 1. [Register for a Dark Sky API key](https://darksky.net/dev/register)
-Visit https://darksky.net/dev/register
 2. Store the secret API key somewhere, you’ll use it soon.
 3. [Get the lat/long of your office](https://support.google.com/maps/answer/18539?co=GENIE.Platform%3DDesktop&hl=en). Store this somewhere, you’ll use it soon.
 
@@ -25,11 +24,11 @@ Visit https://darksky.net/dev/register
 
 ## Create Lambda function
 
-1. Select the blank Blueprint
-1. Enter a name for your function (ie. slackIoTButton)
+1. Select the "Blank Function" Blueprint
+1. Enter a name for your function (ie. `slackIoTButton`)
 1. Select the latest Node.js runtime (at the time of writing it was 4.3)
 1. Edit the code inline and paste in the code from `index.js`. Note: you’ll probably want to edit the `config` message variables.
-1. Add the following environment variables (* = required):
+1. Add the following environment variables:
   - `USERNAME` _(required)_
   - `WEBHOOK` _(required)_
   - `DARK_SKY_KEY`
