@@ -1,4 +1,3 @@
-![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/button-demo.gif)
 ![screenshot](https://github.com/sawyerh/aws-iot-to-slack-checkin/raw/master/img/screenshot.png)
 
 # Usage
