@@ -29,7 +29,7 @@ _This step is optional and only necessary if you want to include weather info in
 1. Select the latest Node.js runtime (at the time of writing it was 4.3)
 1. Edit the code inline and paste in the code from `index.js`. Note: you’ll probably want to edit the `config` message variables.
 1. Add the following environment variables:
-  - `USERNAME` _(required)_
+  - `USERNAME` _(required)_ - This can be anything — I use my firstname.
   - `WEBHOOK` _(required)_
   - `DARK_SKY_KEY`
   - `LATITUDE`
