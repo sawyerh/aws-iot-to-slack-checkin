@@ -3,7 +3,6 @@
 ## Setup your [AWS IoT Button](https://aws.amazon.com/iotbutton/)
 
 1. Install the AWS IoT Button [iOS or Android app](https://aws.amazon.com/iotbutton/getting-started/)
-2. (Optional) Visit the app settings and set the AWS region to the one you typically use
 3. Go through the steps to setup the button
 4. When prompted to select an action, exit the setup process. Your button is configured for Wi-Fi but not a Lambda function yet and that’s fine. We’ll come back and set the action later.
 
@@ -48,5 +47,5 @@ If you’d like to test your function, use the following test event:
 
 1. In the AWS IoT Button app, select your button and tap the lambda icon (`λ`)
 1. Select the “Your functions” tab
-1. Select the lambda function you just created
+1. Select the lambda function you just created. Note: If you don't see your lambda function, you may need to change the selected region in your app's settings.
 1. Save and test. It should work.
