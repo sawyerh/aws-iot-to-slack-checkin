@@ -23,6 +23,7 @@ _This step is optional and only necessary if you want to include weather info in
 
 ## Create Lambda function
 
+1. [Create a new Lambda function](https://console.aws.amazon.com/lambda/home)
 1. Select the "Blank Function" Blueprint
 1. Enter a name for your function (ie. `slackIoTButton`)
 1. Select the latest Node.js runtime (at the time of writing it was 4.3)
