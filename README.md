@@ -1,6 +1,6 @@
 # Context
 
-At [Nava](http://navahq.com/) we have offices in DC, SF, and NYC. Lots of Navanauts also ocassionaly work from home. As a result we've found it useful to have a `#whereabouts` Slack channel where the team can communicate our comings, goings, schedule changes, and location-related heads ups. 
+At [Nava](http://navahq.com/) we have offices in DC, SF, and NYC. Lots of Navanauts also ocassionaly work from home. As a result we've found it useful to have a **`#whereabouts`** Slack channel where the team can communicate our comings, goings, schedule changes, and location-related heads ups. 
 
 For fun, I've programed an AWS IoT Button to help automate my check-in and check-out notifications for the NYC office, letting people know when I'm in the office, heading to lunch, or heading home. Along with the check-in and check-out messages I'm experimenting with including the current weather to help build "commute-empathy".
 
