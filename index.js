@@ -3,7 +3,7 @@
 // Gotta set a few config variables here since AWS Lambda restricts ENV values
 // to a limiting format (like not allowing commas).
 const config = {
-  TEXT_CHECKIN: '@ NYC Office',
+  TEXT_CHECKIN: '@ :orbital:',
   TEXT_CHECKOUT: ':wave: Heading out, have a good night'
 };
 
